@@ -1,7 +1,7 @@
 # Lab1_airplanes
 Отчет по заданию находится в pdf-файле
 
-Программа нахходится в файле image_analyse.py
+Программа находится в файле image_analyse.py
 
 Перед запуском необходимо установить библиотеки: pip install -r requirements.txt
 
